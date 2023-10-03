@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(215, 236, 252);
+}
+
+.formC{
+    margin-left: 30%;
+    margin-top: 15%;
+}
+
+input{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 2px solid #198754;
+    outline: none;
+    background-color: rgb(215, 236, 252);
+    margin-right: 30px !important;
+}
